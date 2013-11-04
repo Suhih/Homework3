@@ -1,0 +1,5 @@
+
+
+Плагин с именем: plugin_googlemap_J15.2.18.zip -  для Joomla 1.5
+
+Плагин с именем: plugin_googlemap_J25_J30.2.18.zip -  для Joomla 2.5 и Joomla 3.0
